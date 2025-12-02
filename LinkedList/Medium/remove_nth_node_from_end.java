@@ -1,6 +1,7 @@
-package My_DSA_Journey.LinkedList.Medium;
+//LeetCode --> Easy Level
+//19. Remove Nth Node From End of List
 
-import java.util.LinkedList;
+package My_DSA_Journey.LinkedList.Medium;
 
 public class remove_nth_node_from_end {
     public static class Node {
@@ -12,12 +13,6 @@ public class remove_nth_node_from_end {
             this.next = null;
         }
     }
-
-    public static Node head;
-    public static Node tail;
-    public static int size; //ByDefault java initialize it's value 0
-
-
 
     public Node removeNthFromEnd(Node head, int n){
         int size = 0;
