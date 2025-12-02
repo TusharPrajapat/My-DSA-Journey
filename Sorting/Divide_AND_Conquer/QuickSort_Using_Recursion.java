@@ -1,6 +1,6 @@
 package My_DSA_Journey.Sorting.Divide_AND_Conquer;
 
-public class Merge_Using_Recursion {
+public class QuickSort_Using_Recursion {
     public static void Quick_Sort(int arr[], int si, int ei){
         if (si >= ei){
             return;
