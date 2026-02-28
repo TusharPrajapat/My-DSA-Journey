@@ -1,4 +1,4 @@
-package My_DSA_Journey.Arrays;
+package My_DSA_Journey.Arrays.Part1;
 
 public class F_Print_SubArrays {
     public static void Print_SubArrays(int num[]) {

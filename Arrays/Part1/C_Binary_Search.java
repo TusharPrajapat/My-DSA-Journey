@@ -1,4 +1,4 @@
-package My_DSA_Journey.Arrays;
+package My_DSA_Journey.Arrays.Part1;
 
 public class C_Binary_Search {
     public static int Binary_Search(int number[], int key) {

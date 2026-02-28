@@ -1,4 +1,4 @@
-package My_DSA_Journey.Arrays;
+package My_DSA_Journey.Arrays.Part1;
 
 public class E_Pairs_in_Array {
     public static void printPairs(int[] numbers) {

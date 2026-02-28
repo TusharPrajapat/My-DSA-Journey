@@ -1,4 +1,4 @@
-package My_DSA_Journey.Arrays;
+package My_DSA_Journey.Arrays.Part1;
 
 public class D_Reverse_an_Array {
     public static void Reverse_Array(int arr[]) {

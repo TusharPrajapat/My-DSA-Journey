@@ -1,4 +1,4 @@
-package My_DSA_Journey.Arrays;
+package My_DSA_Journey.Arrays.Part1;
 
 public class A_Linear_Search {
     public static int linear_search(int[] n, int key) {

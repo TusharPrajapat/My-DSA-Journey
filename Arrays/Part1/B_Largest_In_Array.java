@@ -1,4 +1,4 @@
-package My_DSA_Journey.Arrays;
+package My_DSA_Journey.Arrays.Part1;
 
 public class B_Largest_In_Array {
     public static int getLargest(int number[]) {
