@@ -1,4 +1,4 @@
-package My_DSA_Journey.Arrays.Part2;
+package My_DSA_Journey.A_Arrays.Part2;
 
 public class B_Trapping_Rain_Water {
     public static int TrappingRainWater(int height[]) { //T.C. --> O(n) [Most Optimal Solution]

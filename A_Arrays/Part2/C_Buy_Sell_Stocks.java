@@ -1,4 +1,4 @@
-package My_DSA_Journey.Arrays.Part2;
+package My_DSA_Journey.A_Arrays.Part2;
 
 public class C_Buy_Sell_Stocks {
     public static int Buy_Sell_Stocks(int sellprice[]) {

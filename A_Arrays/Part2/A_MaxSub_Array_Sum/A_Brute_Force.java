@@ -1,4 +1,4 @@
-package My_DSA_Journey.Arrays.Part2.A_MaxSub_Array_Sum;
+package My_DSA_Journey.A_Arrays.Part2.A_MaxSub_Array_Sum;
 
 public class A_Brute_Force {
     public static void Print_SubArrays(int num[]) {
