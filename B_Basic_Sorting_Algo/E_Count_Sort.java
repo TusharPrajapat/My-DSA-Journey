@@ -1,6 +1,6 @@
 package My_DSA_Journey.B_Basic_Sorting_Algo;
 
-public class D_Count_Sort {
+public class E_Count_Sort {
     public static void count_sort(int[] arr) {
         int largest = Integer.MIN_VALUE;
         for (int i = 0; i < arr.length; i++) {
